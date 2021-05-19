@@ -38,6 +38,7 @@
 		"vscode-test": "^1.5.0"
 	},
 	"dependencies": {
+		"dotenv": "^9.0.2",
 		"node-telegram-bot-api": "^0.53.0"
 	}
 }
